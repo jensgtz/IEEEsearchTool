@@ -9,3 +9,6 @@ being able to perform comprehensive literature searches
 - filtering dublicates, sorting, ...
 - condensed view on results for manual filtering
 - export of results to Zotero reference management software
+
+## status
+planned
